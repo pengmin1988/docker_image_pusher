@@ -1,4 +1,3 @@
-#支持私库
-opengrok/docker
+gitea/gitea
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 gitea/gitea

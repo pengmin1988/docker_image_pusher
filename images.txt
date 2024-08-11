@@ -1,3 +1,10 @@
 gitea/gitea
+dperson/samba
+nginx:1.21
+node:16-buster-slim
+ubuntu:16.04
+ubuntu:20.04
+ghcr.io/commaai/openpilot-base:latest
+
 #支持指定架构
 --platform=linux/arm64 gitea/gitea
